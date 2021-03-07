@@ -1,0 +1,11 @@
+body {
+    background-color: #fbf9f9;
+    color: #1e1e1e;
+}
+li{
+    float: left;
+
+}
+   h1{
+       clear: both;
+   }

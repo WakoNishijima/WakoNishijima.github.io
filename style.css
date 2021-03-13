@@ -3,10 +3,15 @@ body {
     background-color: #fbf9f9;
     color: #1e1e1e;
 }
-li{
-    float: left;
-
+img{
+   float:left; 
 }
-   h1{
-       clear: both;
-   }
+.title-profile{
+    margin: 20px;
+    float:left;
+}
+.header-list{ 
+    width: 500px;               /* 幅指定 */
+    height: 90px;               /* 高さ指定 */
+    margin:  0 auto; 
+}

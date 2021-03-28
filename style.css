@@ -32,7 +32,7 @@ div{
 }
 
 .header-list{ 
-    width: 1000px;               /* 幅指定 */
+    width: 1000px;               
     margin: auto; 
     font-size:15px;
 }

@@ -1,17 +1,38 @@
+
+
 body {
     font-family: "Tsukushi A Round Gothic","筑紫A丸ゴシック";
     background-color: #fbf9f9;
     color: #1e1e1e;
+    font-size:12px;
+    text-align: center;
+
 }
-img{
-   float:left; 
+
+.profile-photo{
+    float:left; 
+    margin: 100px ;
 }
+
+.about{
+    float:left; 
+    margin: 70px ;
+}
+.works{
+    float:left; 
+    margin: 30px ;
+}
+div{
+    margin: 70px ;
+}
+
 .title-profile{
-    margin: 20px;
-    float:left;
+    text-align:center;
+    color: #1e1e1e;
 }
+
 .header-list{ 
-    width: 500px;               /* 幅指定 */
-    height: 90px;               /* 高さ指定 */
-    margin:  0 auto; 
+    width: 1000px;               /* 幅指定 */
+    margin: auto; 
+    font-size:15px;
 }
